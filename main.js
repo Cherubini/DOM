@@ -29,6 +29,7 @@ function displayList(array) {
         elementToExpand.appendChild(newLi);
     }
 }
+
 displayList(toDos);
 
 
